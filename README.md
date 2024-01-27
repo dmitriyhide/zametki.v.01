@@ -10,7 +10,7 @@
 
 # Описание проекта:
 
-1. Проект выполнен на яз Python ver 3.11.5 в Visual Studio Code
+1. Проект выполнен на языке Python ver 3.11.5 в Visual Studio Code
 2. Проект расположен на  [Github](https://github.com/dmitriyhide/zametki.v.01)
 3. В проекте были использованы Pull requests на изменение с рабочей ветки dim в итоговую ветку master
 4. Приложение Журнал заметок выполняет следующий функционал:
